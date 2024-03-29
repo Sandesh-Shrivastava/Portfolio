@@ -7,4 +7,3 @@ Tech stack used -
 2) JavaScript
 3) Css
 
-here all about my details and work.
